@@ -1,9 +1,3 @@
-/* Add application styles & imports to this file! */
-
-* {
-  background-color: rgb(176, 255, 186);
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
 table {
   font-family: verdana;
   text-align: center;
@@ -33,6 +27,16 @@ a {
   background-color: rgb(229, 229, 229);
   text-decoration: none;
   color: black;
+}
+
+th.anadir {
+  text-align: right;
+}
+
+.anadir {
+  border: 20px;
+  border-collapse: collapse;
+  padding: 0px 10px;
 }
 
 input {
